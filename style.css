@@ -1,0 +1,13 @@
+table, th, td {
+    border: 1px solid;
+  }
+
+.tablica
+{
+    margin-top: 1%;
+}
+
+body
+{
+    background-color: pink;
+}
